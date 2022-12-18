@@ -8,9 +8,13 @@ The goal of this project is to use historical ocean temperature and anomaly data
 ![el_vs_la_jetstream](https://user-images.githubusercontent.com/90016387/195717825-2abaa5a1-3e51-43a9-ad17-e0bbaa2e4f37.jpeg)
 
 Data was collected from the following sources.
+
 SNOTEL: https://wcc.sc.egov.usda.gov/nwcc/tabget?state=CA
+
 ENSO: https://www.cpc.ncep.noaa.gov/data/indices/sstoi.indices
+
 PDO: https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/index/ersst.v5.pdo.dat
+
 AO: https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/monthly.ao.index.b50.current.ascii.table
 
 The data is pulled on a given interval and that will ensure that our model is always up to date on historical precipitation levels.
