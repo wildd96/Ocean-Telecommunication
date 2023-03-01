@@ -1,4 +1,4 @@
-import teleconnect_functions as myfunc
+import teleconnection_functions as myfunc
 
 #---------------------Libraries-----------------------
 
